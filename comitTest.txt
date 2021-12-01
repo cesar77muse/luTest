@@ -1,1 +1,2 @@
-example of how to create a file and commit to the repository
+Example of how to create a file and commit to the repository
+DEMO
