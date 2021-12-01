@@ -1,2 +1,3 @@
+#DEMO
 Example of how to create a file and commit to the repository
-DEMO
+
